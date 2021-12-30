@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^9",
+    "postcss": "^7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+
+  },
+  "dependencies": {
+    "@craco/craco": "^6.4.3"
+  }
+}
